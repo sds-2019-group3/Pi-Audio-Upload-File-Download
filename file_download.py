@@ -3,10 +3,11 @@ import sys
 import subprocess
 import requests
 import datetime
-from datetime import timedelta
+import time
 
 host = 'http://sds.samchatfield.com'
 
+#Downloads pdf files and opens them on the pi
 def download_files(usr_id):
     
     file_url = host + '/api/user/' + usr_id + '/files'
@@ -32,25 +33,47 @@ def download_files(usr_id):
             process = subprocess.Popen(command, shell = False)
     return
 
+#Checks when the next booking is and downloads the files for it as well as
+#removing the previous booking's files
 def check_booking():
     rm_command = ['rm', 'temp/*']
+    
+    #Getting the url to use for the room the pi is assigned to
     current_dt = datetime.datetime.now()
     nxt_booking = current_dt.hour + 1
     book_url = host + '/api/room/CS-225/bookings/' + current_dt.strftime('%Y-%m-%d') + 'T' + str(nxt_booking) + ':00Z'
+    
+    #Requesting the json data from url for the next booking hour
     getReq = requests.get(url = book_url)
     data = getReq.json()
     
     if (data is None):
         print('>>> No next booking')
         return
+    
+    #Converting the string date stored in the json to the default date format
+    booking_date = data['start'].replace('T', ' ')
+    booking_date = booking_date.replace('Z', '')
+    booking_date = datetime.datetime.strptime(booking_date, '%Y-%m-%d %H:%M:%S.%f')
+    
+    #Waiting till the next booking has begun
+    print ('>>> Waiting for booking')
+    start = time.time()
+    while(True):
         
-    while(true):
-        if (data.datetime.now() != data['start']):
+        #Checking time to print another waiting message
+        end = time.time()
+        if ((end - start) >= 180):
+            print ('>>> Waiting for booking')
+            start = time.time()
+       
+        #Checking if the current time matches the booking
+        if (datetime.datetime.now() >= booking_date):
             break
-
+        
+    #Removing all files in the temporary storage and downloading those for the next booking
     process = subprocess.Popen(rm_command, shell = False)
     download_files(data['leader'])
-
     return
 
 check_booking()
