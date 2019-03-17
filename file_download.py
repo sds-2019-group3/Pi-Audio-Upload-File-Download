@@ -6,7 +6,7 @@ import datetime
 import time
 import logging
 
-logging.basicConfig(filename='file_download.log', level=logging.DEBUG, format='%(asctime)s %(message)s')
+logging.basicConfig(filename='/home/pi/AudioRecording/Pi-Audio-Upload-File-Download/file_download.log', level=logging.DEBUG, format='%(asctime)s %(message)s')
 
 host = 'http://sds.samchatfield.com'
 

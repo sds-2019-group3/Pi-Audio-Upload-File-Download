@@ -1,3 +1,51 @@
-2019-03-17 14:16:50,792 Starting new HTTP connection (1): sds.samchatfield.com
-2019-03-17 14:16:50,927 http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-17T15:00Z HTTP/1.1" 200 4
-2019-03-17 14:16:50,930 >>> No next booking
+2019-03-17 16:17:00,260 Starting new HTTP connection (1): sds.samchatfield.com
+2019-03-17 16:17:00,347 http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-17T17:00Z HTTP/1.1" 200 4
+2019-03-17 16:17:00,350 >>> No next booking
+2019-03-17 16:18:06,793 Starting new HTTP connection (1): sds.samchatfield.com
+2019-03-17 16:18:06,889 http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-17T17:00Z HTTP/1.1" 200 4
+2019-03-17 16:18:06,892 >>> No next booking
+2019-03-17 16:18:43,223 Starting new HTTP connection (1): sds.samchatfield.com
+2019-03-17 16:18:43,344 http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-17T17:00Z HTTP/1.1" 200 4
+2019-03-17 16:18:43,347 >>> No next booking
+2019-03-17 16:19:01,031 Starting new HTTP connection (1): sds.samchatfield.com
+2019-03-17 16:19:01,123 http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-17T17:00Z HTTP/1.1" 200 4
+2019-03-17 16:19:01,126 >>> No next booking
+2019-03-17 16:19:27,313 Starting new HTTP connection (1): sds.samchatfield.com
+2019-03-17 16:19:27,396 http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-17T17:00Z HTTP/1.1" 200 4
+2019-03-17 16:19:27,399 >>> No next booking
+2019-03-17 16:19:52,664 Starting new HTTP connection (1): sds.samchatfield.com
+2019-03-17 16:19:52,770 http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-17T17:00Z HTTP/1.1" 200 4
+2019-03-17 16:19:52,773 >>> No next booking
+2019-03-17 16:25:28,456 Starting new HTTP connection (1): sds.samchatfield.com:80
+2019-03-17 16:25:28,552 http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-17T17:00Z HTTP/1.1" 200 4
+2019-03-17 16:25:28,556 >>> No next booking
+2019-03-17 16:50:21,055 Starting new HTTP connection (1): sds.samchatfield.com:80
+2019-03-17 16:50:21,255 http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-17T17:00Z HTTP/1.1" 200 4
+2019-03-17 16:50:21,258 >>> No next booking
+2019-03-17 16:56:22,304 Starting new HTTP connection (1): sds.samchatfield.com
+2019-03-17 16:56:22,517 http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-17T17:00Z HTTP/1.1" 200 4
+2019-03-17 16:56:22,521 >>> No next booking
+2019-03-17 16:57:03,709 Starting new HTTP connection (1): sds.samchatfield.com:80
+2019-03-17 16:57:03,821 http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-17T17:00Z HTTP/1.1" 200 4
+2019-03-17 16:57:03,825 >>> No next booking
+2019-03-17 16:58:03,690 Starting new HTTP connection (1): sds.samchatfield.com:80
+2019-03-17 16:58:03,795 http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-17T17:00Z HTTP/1.1" 200 4
+2019-03-17 16:58:03,798 >>> No next booking
+2019-03-17 16:59:03,620 Starting new HTTP connection (1): sds.samchatfield.com:80
+2019-03-17 16:59:03,849 http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-17T17:00Z HTTP/1.1" 200 4
+2019-03-17 16:59:03,852 >>> No next booking
+2019-03-17 17:00:03,718 Starting new HTTP connection (1): sds.samchatfield.com:80
+2019-03-17 17:00:03,863 http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-17T18:00Z HTTP/1.1" 200 4
+2019-03-17 17:00:03,867 >>> No next booking
+2019-03-17 17:01:03,680 Starting new HTTP connection (1): sds.samchatfield.com:80
+2019-03-17 17:01:03,783 http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-17T18:00Z HTTP/1.1" 200 4
+2019-03-17 17:01:03,786 >>> No next booking
+2019-03-17 17:02:03,599 Starting new HTTP connection (1): sds.samchatfield.com:80
+2019-03-17 17:02:03,703 http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-17T18:00Z HTTP/1.1" 200 4
+2019-03-17 17:02:03,707 >>> No next booking
+2019-03-17 17:03:03,584 Starting new HTTP connection (1): sds.samchatfield.com:80
+2019-03-17 17:03:03,681 http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-17T18:00Z HTTP/1.1" 200 4
+2019-03-17 17:03:03,685 >>> No next booking
+2019-03-17 17:04:03,568 Starting new HTTP connection (1): sds.samchatfield.com:80
+2019-03-17 17:04:03,656 http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-17T18:00Z HTTP/1.1" 200 4
+2019-03-17 17:04:03,660 >>> No next booking
