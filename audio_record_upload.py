@@ -6,6 +6,7 @@ import requests
 recording_name = "recording.wav"
 
 def record_audio(s_hours):
+    #Converting hours to seconds
     duration = float(s_hours) * (60**2)
 
     #Command used to record audio, duration is the amount of time to record in seconds

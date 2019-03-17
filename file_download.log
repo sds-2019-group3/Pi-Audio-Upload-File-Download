@@ -1,0 +1,3 @@
+2019-03-17 14:16:50,792 Starting new HTTP connection (1): sds.samchatfield.com
+2019-03-17 14:16:50,927 http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-17T15:00Z HTTP/1.1" 200 4
+2019-03-17 14:16:50,930 >>> No next booking

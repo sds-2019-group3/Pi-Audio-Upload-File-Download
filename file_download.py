@@ -4,6 +4,9 @@ import subprocess
 import requests
 import datetime
 import time
+import logging
+
+logging.basicConfig(filename='file_download.log', level=logging.DEBUG, format='%(asctime)s %(message)s')
 
 host = 'http://sds.samchatfield.com'
 
@@ -48,7 +51,7 @@ def check_booking():
     data = getReq.json()
     
     if (data is None):
-        print('>>> No next booking')
+        logging.info('>>> No next booking')
         return
     
     #Converting the string date stored in the json to the default date format
@@ -57,14 +60,14 @@ def check_booking():
     booking_date = datetime.datetime.strptime(booking_date, '%Y-%m-%d %H:%M:%S.%f')
     
     #Waiting till the next booking has begun
-    print ('>>> Waiting for booking')
+    logging.info('>>> Waiting for booking')
     start = time.time()
     while(True):
         
         #Checking time to print another waiting message
         end = time.time()
         if ((end - start) >= 180):
-            print ('>>> Waiting for booking')
+            logging.info('>>> Waiting for booking')
             start = time.time()
        
         #Checking if the current time matches the booking
