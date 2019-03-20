@@ -1,0 +1,7 @@
+[2019-03-19 19:42:37,143] ['logs', 'temp', '.git']
+[2019-03-19 19:43:32,306] ['5c90ea482119230017a62c59', '5c90ceb62119230017a62c58', '5c91403e2119230017a62c5a']
+[2019-03-20 09:53:33,922] >>> Removed file with booking ID: 5c90ea482119230017a62c59
+[2019-03-20 09:53:33,927] >>> Removed file with booking ID: 5c90ceb62119230017a62c58
+[2019-03-20 09:53:33,931] >>> Removed file with booking ID: 5c91403e2119230017a62c5a
+[2019-03-20 10:21:25,906] >>> Removed file with booking ID: 5c920c812119230017a62c5b
+[2019-03-20 10:28:07,485] >>> No ongoing bookings
