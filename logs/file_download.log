@@ -119,3 +119,1306 @@
 [2019-03-20 10:20:13,984] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
 [2019-03-20 10:20:14,001] Starting new HTTP connection (1): sds.samchatfield.com
 [2019-03-20 10:20:14,074] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-20 10:50:03,447] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-20 10:50:03,554] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-20T11:00Z HTTP/1.1" 200 141
+[2019-03-20 10:50:03,577] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-20 10:50:03,654] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1210
+[2019-03-20 10:50:03,657] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-20 10:50:03,663] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-20 10:50:03,747] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-20 10:50:05,742] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-20 10:50:05,752] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-20 10:50:05,828] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-20 10:50:11,765] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-20 10:50:11,778] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-20 10:50:11,844] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-20 11:50:03,759] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-20 11:50:03,859] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-20T12:00Z HTTP/1.1" 200 4
+[2019-03-20 11:50:03,862] >>> No next booking
+[2019-03-20 11:54:04,291] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-20 11:54:04,427] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-20T12:00Z HTTP/1.1" 200 141
+[2019-03-20 11:54:04,452] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-20 11:54:04,893] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1210
+[2019-03-20 11:54:04,897] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-20 11:54:04,905] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-20 11:54:05,306] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-20 11:54:08,844] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-20 11:54:08,866] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-20 11:54:08,951] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-20 11:54:27,511] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-20 11:54:27,613] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-20T12:00Z HTTP/1.1" 200 141
+[2019-03-20 11:54:27,638] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-20 11:54:27,764] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1210
+[2019-03-20 11:54:27,767] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-20 11:54:27,776] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-20 11:54:27,871] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-20 11:54:30,766] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-20 11:54:30,777] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-20 11:54:30,850] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-20 11:54:35,235] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-20 11:54:35,249] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-20 11:54:35,336] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-20 12:50:04,295] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-20 12:50:04,402] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-20T13:00Z HTTP/1.1" 200 4
+[2019-03-20 12:50:04,405] >>> No next booking
+[2019-03-20 13:50:03,021] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-20 14:50:03,784] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-20 14:50:03,947] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-20T15:00Z HTTP/1.1" 200 4
+[2019-03-20 14:50:03,950] >>> No next booking
+[2019-03-20 15:50:03,644] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-20 15:50:03,761] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-20T16:00Z HTTP/1.1" 200 4
+[2019-03-20 15:50:03,764] >>> No next booking
+[2019-03-20 16:50:03,408] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-20 16:50:03,592] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-20T17:00Z HTTP/1.1" 200 4
+[2019-03-20 16:50:03,596] >>> No next booking
+[2019-03-20 17:50:03,245] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-20 17:50:03,357] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-20T18:00Z HTTP/1.1" 200 4
+[2019-03-20 17:50:03,360] >>> No next booking
+[2019-03-20 18:50:04,024] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-20 18:50:04,134] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-20T19:00Z HTTP/1.1" 200 4
+[2019-03-20 18:50:04,137] >>> No next booking
+[2019-03-20 19:50:03,759] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-20 19:50:03,885] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-20T20:00Z HTTP/1.1" 200 4
+[2019-03-20 19:50:03,888] >>> No next booking
+[2019-03-20 20:50:03,539] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-20 20:50:04,484] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-20T21:00Z HTTP/1.1" 200 4
+[2019-03-20 20:50:04,490] >>> No next booking
+[2019-03-20 21:50:03,162] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-20 21:50:03,345] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-20T22:00Z HTTP/1.1" 200 4
+[2019-03-20 21:50:03,350] >>> No next booking
+[2019-03-20 22:50:04,029] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-20 22:50:04,298] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-20T23:00Z HTTP/1.1" 200 4
+[2019-03-20 22:50:04,301] >>> No next booking
+[2019-03-20 23:50:03,922] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-20 23:50:04,031] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-20T24:00Z HTTP/1.1" 200 4
+[2019-03-20 23:50:04,034] >>> No next booking
+[2019-03-21 00:50:03,682] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 00:50:03,819] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T1:00Z HTTP/1.1" 500 1086
+[2019-03-21 01:50:03,493] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 01:50:03,607] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T2:00Z HTTP/1.1" 500 1086
+[2019-03-21 02:50:03,264] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 02:50:03,364] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T3:00Z HTTP/1.1" 500 1086
+[2019-03-21 03:50:04,016] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 03:50:04,117] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T4:00Z HTTP/1.1" 500 1086
+[2019-03-21 04:50:03,108] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 04:50:03,230] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T5:00Z HTTP/1.1" 500 1086
+[2019-03-21 05:50:03,899] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 05:50:03,998] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T6:00Z HTTP/1.1" 500 1086
+[2019-03-21 06:50:04,003] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 06:50:04,122] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T7:00Z HTTP/1.1" 500 1086
+[2019-03-21 07:50:03,790] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 07:50:03,966] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T8:00Z HTTP/1.1" 500 1086
+[2019-03-21 08:50:03,587] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 08:50:03,681] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T9:00Z HTTP/1.1" 500 1086
+[2019-03-21 09:50:03,307] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 09:50:03,406] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T10:00Z HTTP/1.1" 200 4
+[2019-03-21 09:50:03,409] >>> No next booking
+[2019-03-21 09:59:52,736] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 09:59:52,822] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T10:00Z HTTP/1.1" 200 4
+[2019-03-21 09:59:52,825] >>> No next booking
+[2019-03-21 10:10:03,992] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 10:10:04,089] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T11:00Z HTTP/1.1" 200 4
+[2019-03-21 10:10:04,092] >>> No next booking
+[2019-03-21 10:15:03,376] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 10:15:03,472] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T11:00Z HTTP/1.1" 200 4
+[2019-03-21 10:15:03,475] >>> No next booking
+[2019-03-21 10:20:03,823] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 10:20:03,908] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T11:00Z HTTP/1.1" 200 4
+[2019-03-21 10:20:03,912] >>> No next booking
+[2019-03-21 10:25:03,115] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 10:25:03,198] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T11:00Z HTTP/1.1" 200 4
+[2019-03-21 10:25:03,201] >>> No next booking
+[2019-03-21 10:30:03,405] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 10:30:03,517] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T11:00Z HTTP/1.1" 200 4
+[2019-03-21 10:30:03,520] >>> No next booking
+[2019-03-21 10:35:03,807] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 10:35:03,902] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T11:00Z HTTP/1.1" 200 4
+[2019-03-21 10:35:03,905] >>> No next booking
+[2019-03-21 10:40:03,142] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 10:40:03,324] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T11:00Z HTTP/1.1" 200 4
+[2019-03-21 10:40:03,327] >>> No next booking
+[2019-03-21 10:45:03,577] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 10:45:03,677] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T11:00Z HTTP/1.1" 200 4
+[2019-03-21 10:45:03,680] >>> No next booking
+[2019-03-21 10:50:03,914] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 10:50:04,012] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T11:00Z HTTP/1.1" 200 4
+[2019-03-21 10:50:04,015] >>> No next booking
+[2019-03-21 10:55:03,260] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 10:55:03,351] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T11:00Z HTTP/1.1" 200 4
+[2019-03-21 10:55:03,354] >>> No next booking
+[2019-03-21 11:00:03,611] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 11:00:03,714] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T12:00Z HTTP/1.1" 200 4
+[2019-03-21 11:00:03,717] >>> No next booking
+[2019-03-21 11:05:03,946] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 11:05:04,414] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T12:00Z HTTP/1.1" 200 4
+[2019-03-21 11:05:04,417] >>> No next booking
+[2019-03-21 11:10:03,614] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 11:10:03,718] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T12:00Z HTTP/1.1" 200 4
+[2019-03-21 11:10:03,721] >>> No next booking
+[2019-03-21 11:15:03,997] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 11:15:04,091] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T12:00Z HTTP/1.1" 200 4
+[2019-03-21 11:15:04,094] >>> No next booking
+[2019-03-21 11:20:03,416] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 11:20:03,519] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T12:00Z HTTP/1.1" 200 4
+[2019-03-21 11:20:03,522] >>> No next booking
+[2019-03-21 11:25:03,799] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 11:25:03,899] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T12:00Z HTTP/1.1" 200 4
+[2019-03-21 11:25:03,902] >>> No next booking
+[2019-03-21 11:30:03,112] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 11:30:03,228] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T12:00Z HTTP/1.1" 200 4
+[2019-03-21 11:30:03,231] >>> No next booking
+[2019-03-21 11:35:03,453] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 11:35:03,602] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T12:00Z HTTP/1.1" 200 4
+[2019-03-21 11:35:03,606] >>> No next booking
+[2019-03-21 11:40:03,815] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 11:40:03,935] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T12:00Z HTTP/1.1" 200 4
+[2019-03-21 11:40:03,939] >>> No next booking
+[2019-03-21 11:45:03,188] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 11:45:03,279] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T12:00Z HTTP/1.1" 200 4
+[2019-03-21 11:45:03,282] >>> No next booking
+[2019-03-21 11:50:03,546] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 11:50:03,649] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T12:00Z HTTP/1.1" 200 4
+[2019-03-21 11:50:03,652] >>> No next booking
+[2019-03-21 11:55:03,879] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 11:55:04,001] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T12:00Z HTTP/1.1" 200 4
+[2019-03-21 11:55:04,004] >>> No next booking
+[2019-03-21 12:00:03,212] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 12:00:03,335] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T13:00Z HTTP/1.1" 200 4
+[2019-03-21 12:00:03,338] >>> No next booking
+[2019-03-21 12:05:03,596] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 12:05:03,782] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T13:00Z HTTP/1.1" 200 4
+[2019-03-21 12:05:03,785] >>> No next booking
+[2019-03-21 12:10:04,004] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 12:10:04,132] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T13:00Z HTTP/1.1" 200 4
+[2019-03-21 12:10:04,135] >>> No next booking
+[2019-03-21 12:15:03,354] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 12:15:03,439] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T13:00Z HTTP/1.1" 200 4
+[2019-03-21 12:15:03,442] >>> No next booking
+[2019-03-21 12:20:03,724] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 12:20:03,798] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T13:00Z HTTP/1.1" 200 4
+[2019-03-21 12:20:03,801] >>> No next booking
+[2019-03-21 12:25:04,019] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 12:25:04,124] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T13:00Z HTTP/1.1" 200 4
+[2019-03-21 12:25:04,128] >>> No next booking
+[2019-03-21 12:30:03,354] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 12:30:03,495] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T13:00Z HTTP/1.1" 200 4
+[2019-03-21 12:30:03,498] >>> No next booking
+[2019-03-21 12:35:03,712] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 12:35:03,820] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T13:00Z HTTP/1.1" 200 4
+[2019-03-21 12:35:03,823] >>> No next booking
+[2019-03-21 12:40:03,082] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 12:40:03,196] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T13:00Z HTTP/1.1" 200 4
+[2019-03-21 12:40:03,199] >>> No next booking
+[2019-03-21 12:45:03,456] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 12:45:03,547] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T13:00Z HTTP/1.1" 200 4
+[2019-03-21 12:45:03,550] >>> No next booking
+[2019-03-21 12:50:03,813] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 12:50:03,912] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T13:00Z HTTP/1.1" 200 4
+[2019-03-21 12:50:03,916] >>> No next booking
+[2019-03-21 12:55:03,151] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 12:55:03,246] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T13:00Z HTTP/1.1" 200 4
+[2019-03-21 12:55:03,249] >>> No next booking
+[2019-03-21 13:00:03,455] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 13:00:03,561] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T14:00Z HTTP/1.1" 200 4
+[2019-03-21 13:00:03,564] >>> No next booking
+[2019-03-21 13:05:03,807] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 13:05:03,905] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T14:00Z HTTP/1.1" 200 4
+[2019-03-21 13:05:03,909] >>> No next booking
+[2019-03-21 13:10:03,119] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 13:10:03,223] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T14:00Z HTTP/1.1" 200 4
+[2019-03-21 13:10:03,226] >>> No next booking
+[2019-03-21 13:15:03,423] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 13:15:03,529] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T14:00Z HTTP/1.1" 200 4
+[2019-03-21 13:15:03,532] >>> No next booking
+[2019-03-21 13:20:03,841] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 13:20:03,941] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T14:00Z HTTP/1.1" 200 4
+[2019-03-21 13:20:03,944] >>> No next booking
+[2019-03-21 13:25:03,195] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 13:25:03,301] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T14:00Z HTTP/1.1" 200 4
+[2019-03-21 13:25:03,304] >>> No next booking
+[2019-03-21 13:30:03,529] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 13:30:03,640] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T14:00Z HTTP/1.1" 200 4
+[2019-03-21 13:30:03,643] >>> No next booking
+[2019-03-21 13:35:03,869] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 13:35:03,965] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T14:00Z HTTP/1.1" 200 4
+[2019-03-21 13:35:03,968] >>> No next booking
+[2019-03-21 13:40:03,181] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 13:40:03,285] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T14:00Z HTTP/1.1" 200 4
+[2019-03-21 13:40:03,288] >>> No next booking
+[2019-03-21 13:45:03,513] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 13:45:03,612] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T14:00Z HTTP/1.1" 200 4
+[2019-03-21 13:45:03,616] >>> No next booking
+[2019-03-21 13:50:03,887] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 13:50:04,013] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T14:00Z HTTP/1.1" 200 4
+[2019-03-21 13:50:04,016] >>> No next booking
+[2019-03-21 13:55:03,286] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 13:55:03,371] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T14:00Z HTTP/1.1" 200 4
+[2019-03-21 13:55:03,375] >>> No next booking
+[2019-03-21 14:00:03,615] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 14:00:03,728] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T15:00Z HTTP/1.1" 200 141
+[2019-03-21 14:00:03,752] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 14:00:03,847] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1415
+[2019-03-21 14:00:03,850] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 14:00:03,856] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 14:00:03,935] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 14:00:09,222] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 14:00:09,237] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 14:00:09,311] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 14:00:14,690] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 14:00:14,718] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 14:00:14,880] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 14:05:05,261] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 14:05:05,374] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T15:00Z HTTP/1.1" 200 141
+[2019-03-21 14:05:05,398] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 14:05:05,477] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1415
+[2019-03-21 14:05:05,480] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 14:05:05,486] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 14:05:05,566] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 14:05:09,503] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 14:05:09,518] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 14:05:09,600] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 14:05:18,332] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 14:05:18,486] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 14:05:18,587] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 14:10:05,283] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 14:10:05,501] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T15:00Z HTTP/1.1" 200 141
+[2019-03-21 14:10:05,542] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 14:10:05,624] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1415
+[2019-03-21 14:10:05,643] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 14:10:05,649] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 14:10:05,710] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 14:10:10,797] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 14:13:10,534] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 14:14:13,395] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 14:52:33,540] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 14:52:33,540] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 14:52:33,540] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 14:52:33,541] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 14:52:39,008] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 14:52:39,019] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 14:52:39,116] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 14:55:04,031] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 14:55:04,131] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T15:00Z HTTP/1.1" 200 141
+[2019-03-21 14:55:04,155] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 14:55:04,235] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1415
+[2019-03-21 14:55:04,239] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 14:55:04,245] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 14:55:04,327] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 14:55:07,519] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 14:55:07,534] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 14:55:07,636] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 14:55:15,330] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 14:55:15,339] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 14:55:15,415] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 15:00:03,916] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 15:00:04,050] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T16:00Z HTTP/1.1" 200 4
+[2019-03-21 15:00:04,054] >>> No next booking
+[2019-03-21 15:05:03,362] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 15:05:03,470] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T16:00Z HTTP/1.1" 200 4
+[2019-03-21 15:05:03,474] >>> No next booking
+[2019-03-21 15:10:03,711] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 15:10:03,909] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T16:00Z HTTP/1.1" 200 4
+[2019-03-21 15:10:03,912] >>> No next booking
+[2019-03-21 15:15:03,126] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 15:15:03,244] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T16:00Z HTTP/1.1" 200 4
+[2019-03-21 15:15:03,247] >>> No next booking
+[2019-03-21 15:20:03,532] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 15:20:03,636] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T16:00Z HTTP/1.1" 200 4
+[2019-03-21 15:20:03,639] >>> No next booking
+[2019-03-21 15:25:03,917] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 15:25:04,030] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T16:00Z HTTP/1.1" 200 4
+[2019-03-21 15:25:04,033] >>> No next booking
+[2019-03-21 15:30:03,282] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 15:30:03,366] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T16:00Z HTTP/1.1" 200 4
+[2019-03-21 15:30:03,369] >>> No next booking
+[2019-03-21 15:35:03,592] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 15:35:03,693] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T16:00Z HTTP/1.1" 200 4
+[2019-03-21 15:35:03,696] >>> No next booking
+[2019-03-21 15:40:03,942] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 15:40:04,046] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T16:00Z HTTP/1.1" 200 4
+[2019-03-21 15:40:04,049] >>> No next booking
+[2019-03-21 15:45:03,334] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 15:45:03,437] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T16:00Z HTTP/1.1" 200 4
+[2019-03-21 15:45:03,440] >>> No next booking
+[2019-03-21 15:50:03,679] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 15:50:03,784] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T16:00Z HTTP/1.1" 200 4
+[2019-03-21 15:50:03,787] >>> No next booking
+[2019-03-21 15:55:04,072] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 15:55:04,201] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T16:00Z HTTP/1.1" 200 4
+[2019-03-21 15:55:04,204] >>> No next booking
+[2019-03-21 16:00:03,426] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 16:00:03,514] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T17:00Z HTTP/1.1" 200 4
+[2019-03-21 16:00:03,518] >>> No next booking
+[2019-03-21 16:05:03,791] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 16:05:04,077] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T17:00Z HTTP/1.1" 200 4
+[2019-03-21 16:05:04,080] >>> No next booking
+[2019-03-21 16:10:03,322] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 16:10:03,424] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T17:00Z HTTP/1.1" 200 4
+[2019-03-21 16:10:03,427] >>> No next booking
+[2019-03-21 16:15:03,641] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 16:15:03,749] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T17:00Z HTTP/1.1" 200 4
+[2019-03-21 16:15:03,753] >>> No next booking
+[2019-03-21 16:20:03,025] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 16:20:03,133] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T17:00Z HTTP/1.1" 200 4
+[2019-03-21 16:20:03,136] >>> No next booking
+[2019-03-21 16:25:03,383] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 16:25:03,521] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T17:00Z HTTP/1.1" 200 4
+[2019-03-21 16:25:03,524] >>> No next booking
+[2019-03-21 16:30:03,738] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 16:30:03,840] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T17:00Z HTTP/1.1" 200 4
+[2019-03-21 16:30:03,843] >>> No next booking
+[2019-03-21 16:35:03,077] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 16:35:03,186] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T17:00Z HTTP/1.1" 200 4
+[2019-03-21 16:35:03,189] >>> No next booking
+[2019-03-21 16:40:03,437] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 16:40:03,572] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T17:00Z HTTP/1.1" 200 4
+[2019-03-21 16:40:03,576] >>> No next booking
+[2019-03-21 16:45:03,813] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 16:45:04,016] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T17:00Z HTTP/1.1" 200 4
+[2019-03-21 16:45:04,019] >>> No next booking
+[2019-03-21 16:50:03,315] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 16:50:03,414] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T17:00Z HTTP/1.1" 200 4
+[2019-03-21 16:50:03,417] >>> No next booking
+[2019-03-21 16:55:03,631] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 16:55:03,875] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T17:00Z HTTP/1.1" 200 4
+[2019-03-21 16:55:03,878] >>> No next booking
+[2019-03-21 17:00:03,095] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 17:00:03,190] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T18:00Z HTTP/1.1" 200 4
+[2019-03-21 17:00:03,193] >>> No next booking
+[2019-03-21 17:05:03,423] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 17:05:03,560] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T18:00Z HTTP/1.1" 200 4
+[2019-03-21 17:05:03,563] >>> No next booking
+[2019-03-21 17:10:03,806] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 17:10:03,963] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T18:00Z HTTP/1.1" 200 4
+[2019-03-21 17:10:03,966] >>> No next booking
+[2019-03-21 17:15:03,203] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 17:15:03,329] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T18:00Z HTTP/1.1" 200 4
+[2019-03-21 17:15:03,333] >>> No next booking
+[2019-03-21 17:20:03,628] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 17:20:03,728] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T18:00Z HTTP/1.1" 200 4
+[2019-03-21 17:20:03,731] >>> No next booking
+[2019-03-21 17:25:04,006] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 17:25:04,127] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T18:00Z HTTP/1.1" 200 4
+[2019-03-21 17:25:04,130] >>> No next booking
+[2019-03-21 17:30:03,414] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 17:30:03,497] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T18:00Z HTTP/1.1" 200 4
+[2019-03-21 17:30:03,500] >>> No next booking
+[2019-03-21 17:35:03,741] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 17:35:03,885] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T18:00Z HTTP/1.1" 200 4
+[2019-03-21 17:35:03,888] >>> No next booking
+[2019-03-21 17:40:03,117] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 17:40:03,246] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T18:00Z HTTP/1.1" 200 4
+[2019-03-21 17:40:03,249] >>> No next booking
+[2019-03-21 17:45:03,473] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 17:45:03,812] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T18:00Z HTTP/1.1" 200 4
+[2019-03-21 17:45:03,815] >>> No next booking
+[2019-03-21 17:50:03,047] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 17:50:03,196] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T18:00Z HTTP/1.1" 200 4
+[2019-03-21 17:50:03,199] >>> No next booking
+[2019-03-21 17:55:03,432] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 17:55:03,607] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T18:00Z HTTP/1.1" 200 4
+[2019-03-21 17:55:03,610] >>> No next booking
+[2019-03-21 18:00:03,860] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 18:00:04,071] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T19:00Z HTTP/1.1" 200 4
+[2019-03-21 18:00:04,075] >>> No next booking
+[2019-03-21 18:05:03,324] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 18:05:03,539] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T19:00Z HTTP/1.1" 200 4
+[2019-03-21 18:05:03,543] >>> No next booking
+[2019-03-21 18:10:03,743] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 18:10:03,924] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T19:00Z HTTP/1.1" 200 4
+[2019-03-21 18:10:03,927] >>> No next booking
+[2019-03-21 18:15:03,175] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 18:15:03,316] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T19:00Z HTTP/1.1" 200 4
+[2019-03-21 18:15:03,319] >>> No next booking
+[2019-03-21 18:20:03,621] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 18:20:03,731] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T19:00Z HTTP/1.1" 200 4
+[2019-03-21 18:20:03,735] >>> No next booking
+[2019-03-21 18:25:03,942] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 18:25:04,073] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T19:00Z HTTP/1.1" 200 4
+[2019-03-21 18:25:04,076] >>> No next booking
+[2019-03-21 18:30:03,282] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 18:30:03,397] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T19:00Z HTTP/1.1" 200 4
+[2019-03-21 18:30:03,400] >>> No next booking
+[2019-03-21 18:35:03,660] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 18:35:03,985] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T19:00Z HTTP/1.1" 200 4
+[2019-03-21 18:35:03,989] >>> No next booking
+[2019-03-21 18:40:03,241] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 18:40:03,351] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T19:00Z HTTP/1.1" 200 4
+[2019-03-21 18:40:03,354] >>> No next booking
+[2019-03-21 18:45:03,584] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 18:45:03,732] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T19:00Z HTTP/1.1" 200 4
+[2019-03-21 18:45:03,735] >>> No next booking
+[2019-03-21 18:50:03,964] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 18:50:04,065] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T19:00Z HTTP/1.1" 200 4
+[2019-03-21 18:50:04,068] >>> No next booking
+[2019-03-21 18:55:03,278] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 18:55:03,446] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T19:00Z HTTP/1.1" 200 4
+[2019-03-21 18:55:03,450] >>> No next booking
+[2019-03-21 19:00:03,711] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 19:00:03,877] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T20:00Z HTTP/1.1" 200 4
+[2019-03-21 19:00:03,880] >>> No next booking
+[2019-03-21 19:05:03,140] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 19:05:03,334] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T20:00Z HTTP/1.1" 200 4
+[2019-03-21 19:05:03,337] >>> No next booking
+[2019-03-21 19:10:03,591] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 19:10:03,674] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T20:00Z HTTP/1.1" 200 4
+[2019-03-21 19:10:03,677] >>> No next booking
+[2019-03-21 19:15:03,910] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 19:15:04,232] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T20:00Z HTTP/1.1" 200 4
+[2019-03-21 19:15:04,235] >>> No next booking
+[2019-03-21 19:20:03,545] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 19:20:04,398] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T20:00Z HTTP/1.1" 200 4
+[2019-03-21 19:20:04,401] >>> No next booking
+[2019-03-21 19:25:03,718] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 19:25:04,613] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T20:00Z HTTP/1.1" 200 4
+[2019-03-21 19:25:04,617] >>> No next booking
+[2019-03-21 19:30:03,883] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 19:30:04,308] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T20:00Z HTTP/1.1" 200 4
+[2019-03-21 19:30:04,311] >>> No next booking
+[2019-03-21 19:35:03,590] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 19:35:03,710] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T20:00Z HTTP/1.1" 200 4
+[2019-03-21 19:35:03,714] >>> No next booking
+[2019-03-21 19:50:04,301] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 19:50:04,825] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T20:00Z HTTP/1.1" 200 4
+[2019-03-21 19:50:04,828] >>> No next booking
+[2019-03-21 20:17:13,411] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:17:13,498] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T21:00Z HTTP/1.1" 200 141
+[2019-03-21 20:17:13,525] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:17:13,637] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1415
+[2019-03-21 20:17:13,640] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 20:17:13,649] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:17:13,719] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 20:17:15,791] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 20:17:15,803] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:17:15,904] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 20:17:21,229] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 20:17:21,242] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:17:21,327] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 20:17:44,458] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:17:44,547] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T21:00Z HTTP/1.1" 200 141
+[2019-03-21 20:17:44,572] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:17:44,673] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1415
+[2019-03-21 20:17:44,676] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 20:17:44,685] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:17:44,755] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 20:17:54,760] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:17:54,868] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T21:00Z HTTP/1.1" 200 141
+[2019-03-21 20:17:54,892] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:17:55,013] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1415
+[2019-03-21 20:17:55,017] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 20:17:55,025] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:17:55,142] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 20:17:57,068] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 20:17:57,079] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:17:57,159] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 20:18:01,117] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 20:18:01,130] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:18:01,239] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 20:18:44,036] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:18:44,143] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T21:00Z HTTP/1.1" 200 141
+[2019-03-21 20:18:44,168] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:18:44,263] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1415
+[2019-03-21 20:18:44,266] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 20:18:44,275] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:18:44,351] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 20:18:46,193] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 20:18:46,205] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:18:46,399] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 20:18:50,969] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 20:18:50,984] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:18:51,117] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 20:20:24,157] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:20:24,299] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T21:00Z HTTP/1.1" 200 141
+[2019-03-21 20:20:24,324] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:20:24,434] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1415
+[2019-03-21 20:20:24,437] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 20:20:24,446] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:20:24,516] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 20:20:26,426] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 20:20:26,438] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:20:26,515] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 20:20:31,522] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 20:20:31,534] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:20:31,610] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 20:23:09,676] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:23:09,765] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T21:00Z HTTP/1.1" 200 141
+[2019-03-21 20:23:09,790] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:23:09,889] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1415
+[2019-03-21 20:23:09,892] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 20:23:09,901] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:23:09,987] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 20:23:12,092] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 20:23:12,104] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:23:12,182] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 20:23:19,103] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 20:23:19,114] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:23:19,369] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 20:25:05,903] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:25:06,001] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T21:00Z HTTP/1.1" 200 141
+[2019-03-21 20:25:06,026] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:25:06,118] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1415
+[2019-03-21 20:25:06,121] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 20:25:06,130] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:25:06,203] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 20:25:10,101] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 20:25:10,115] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:25:10,198] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 20:25:14,782] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 20:25:14,799] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:25:14,887] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 20:25:35,650] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:25:35,746] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T21:00Z HTTP/1.1" 200 141
+[2019-03-21 20:25:35,770] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:25:35,857] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1415
+[2019-03-21 20:25:35,860] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 20:25:35,869] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:25:35,939] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 20:25:38,146] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 20:25:38,158] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:25:38,229] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 20:25:42,399] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 20:25:42,414] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:25:42,494] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 20:29:29,180] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:29:29,297] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T21:00Z HTTP/1.1" 200 141
+[2019-03-21 20:29:29,322] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:29:29,405] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1415
+[2019-03-21 20:29:29,409] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 20:29:29,418] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:29:29,499] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 20:29:31,993] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 20:29:32,005] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:29:32,103] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 20:29:36,284] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 20:29:36,297] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:29:36,382] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 20:30:02,527] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:30:02,686] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T21:00Z HTTP/1.1" 200 141
+[2019-03-21 20:30:02,710] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:30:02,785] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1415
+[2019-03-21 20:30:02,788] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 20:30:02,796] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:30:02,863] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 20:30:05,314] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 20:30:05,326] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:30:05,413] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 20:30:12,203] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 20:30:14,152] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:30:14,243] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 20:30:45,080] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:30:45,168] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T21:00Z HTTP/1.1" 200 141
+[2019-03-21 20:30:45,195] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:30:45,276] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1415
+[2019-03-21 20:30:45,279] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 20:30:45,288] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:30:45,358] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 20:30:48,021] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 20:30:48,041] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:30:48,129] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 20:30:55,650] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 20:30:55,712] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:30:55,790] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 20:33:08,190] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:33:08,476] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T21:00Z HTTP/1.1" 200 141
+[2019-03-21 20:33:08,503] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:33:08,608] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1415
+[2019-03-21 20:33:08,613] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 20:33:08,622] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:33:08,702] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 20:33:12,232] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 20:33:12,253] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:33:12,347] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 20:33:21,110] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 20:33:21,331] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:33:21,769] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 20:36:08,780] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:36:08,884] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T21:00Z HTTP/1.1" 200 141
+[2019-03-21 20:36:08,910] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:36:09,024] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1415
+[2019-03-21 20:36:09,027] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 20:36:09,036] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:36:09,137] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 20:36:11,181] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 20:36:11,191] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:36:11,280] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 20:36:16,209] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 20:36:16,221] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:36:16,293] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 20:36:49,392] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:36:49,605] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T21:00Z HTTP/1.1" 200 141
+[2019-03-21 20:36:49,630] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:36:49,720] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1415
+[2019-03-21 20:36:49,723] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 20:36:49,732] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:36:49,819] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 20:36:51,565] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 20:36:51,581] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:36:51,655] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 20:36:55,864] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 20:36:55,910] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:36:56,015] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 20:39:36,097] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:39:36,223] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T21:00Z HTTP/1.1" 200 141
+[2019-03-21 20:39:36,248] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:39:36,342] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1415
+[2019-03-21 20:39:36,345] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 20:39:36,354] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:39:36,418] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 20:39:39,226] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 20:39:39,238] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:39:39,330] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 20:39:44,665] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 20:39:44,677] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:39:44,759] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 20:40:24,502] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:40:24,607] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T21:00Z HTTP/1.1" 200 141
+[2019-03-21 20:40:24,631] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:40:24,751] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1415
+[2019-03-21 20:40:24,754] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 20:40:24,763] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:40:24,846] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 20:40:28,458] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 20:40:28,469] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:40:28,580] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 20:40:32,753] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 20:40:32,769] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:40:32,848] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 20:50:03,237] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:50:03,344] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T21:00Z HTTP/1.1" 200 141
+[2019-03-21 20:50:03,366] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:50:03,448] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1415
+[2019-03-21 20:50:03,451] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 20:50:03,457] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:50:03,527] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 20:50:06,058] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 20:50:06,069] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:50:06,136] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 20:50:11,007] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 20:50:11,023] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:50:11,105] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 20:56:29,821] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:56:29,909] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T21:00Z HTTP/1.1" 200 141
+[2019-03-21 20:56:29,934] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:56:30,019] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1415
+[2019-03-21 20:56:30,022] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 20:56:30,031] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:56:30,104] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 20:56:37,260] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 20:56:37,272] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:56:37,355] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 20:56:41,782] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 20:56:41,798] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:56:41,879] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 20:57:11,234] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:57:11,321] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T21:00Z HTTP/1.1" 200 141
+[2019-03-21 20:57:11,346] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:57:11,422] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1415
+[2019-03-21 20:57:11,426] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 20:57:11,434] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:57:11,521] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 20:57:29,957] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:57:30,055] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T21:00Z HTTP/1.1" 200 141
+[2019-03-21 20:57:30,079] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:57:30,182] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1415
+[2019-03-21 20:57:30,185] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 20:57:30,194] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:57:30,310] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 20:57:32,184] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 20:57:32,196] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:57:32,269] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 20:57:36,513] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 20:57:36,528] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:57:36,613] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 20:58:13,183] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:58:13,317] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T21:00Z HTTP/1.1" 200 141
+[2019-03-21 20:58:13,342] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:58:13,424] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1415
+[2019-03-21 20:58:13,427] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 20:58:13,436] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:58:13,542] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 20:58:15,455] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 20:58:15,467] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:58:15,542] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 20:58:21,053] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 20:58:21,070] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 20:58:21,151] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 21:00:29,079] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:00:29,193] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T22:00Z HTTP/1.1" 200 4
+[2019-03-21 21:00:29,196] >>> No next booking
+[2019-03-21 21:00:43,327] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:00:43,414] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T22:00Z HTTP/1.1" 200 4
+[2019-03-21 21:00:43,417] >>> No next booking
+[2019-03-21 21:01:04,867] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:01:04,957] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T22:00Z HTTP/1.1" 200 141
+[2019-03-21 21:01:04,982] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:01:05,066] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1833
+[2019-03-21 21:01:05,071] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 21:01:05,080] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:01:05,168] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 21:01:06,886] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 21:01:06,898] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:01:06,979] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 21:01:13,101] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 21:01:13,119] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:01:13,217] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 21:01:13,390] >>> Square Poster Draft-2019-03-21T20:58:21.354Z.pdf found!
+[2019-03-21 21:01:13,409] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:01:13,486] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/Square%20Poster%20Draft-2019-03-21T20:58:21.354Z.pdf HTTP/1.1" 200 1621376
+[2019-03-21 21:01:14,082] >>> Square Poster Draft-2019-03-21T21:00:02.567Z.pdf found!
+[2019-03-21 21:01:14,094] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:01:14,185] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/Square%20Poster%20Draft-2019-03-21T21:00:02.567Z.pdf HTTP/1.1" 200 1621376
+[2019-03-21 21:07:16,774] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:07:17,027] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T22:00Z HTTP/1.1" 200 141
+[2019-03-21 21:07:17,053] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:07:17,497] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 2233
+[2019-03-21 21:07:17,500] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 21:07:17,509] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:07:17,579] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 21:07:24,248] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 21:07:24,260] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:07:24,350] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 21:07:33,966] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 21:07:33,978] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:07:34,046] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 21:07:34,222] >>> Square Poster Draft-2019-03-21T20:58:21.354Z.pdf found!
+[2019-03-21 21:07:34,233] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:07:34,306] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/Square%20Poster%20Draft-2019-03-21T20:58:21.354Z.pdf HTTP/1.1" 200 1621376
+[2019-03-21 21:07:34,855] >>> Square Poster Draft-2019-03-21T21:00:02.567Z.pdf found!
+[2019-03-21 21:07:34,867] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:07:34,975] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/Square%20Poster%20Draft-2019-03-21T21:00:02.567Z.pdf HTTP/1.1" 200 1621376
+[2019-03-21 21:07:35,605] >>> Square Poster Draft-2019-03-21T21:01:19.211Z.pdf found!
+[2019-03-21 21:07:35,616] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:07:35,695] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/Square%20Poster%20Draft-2019-03-21T21:01:19.211Z.pdf HTTP/1.1" 200 1621376
+[2019-03-21 21:07:36,249] >>> 04-ltprops-2019-03-21T21:03:25.879Z.pdf found!
+[2019-03-21 21:07:36,270] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:07:36,424] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/04-ltprops-2019-03-21T21:03:25.879Z.pdf HTTP/1.1" 200 2144752
+[2019-03-21 21:08:33,199] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:08:33,288] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T22:00Z HTTP/1.1" 200 141
+[2019-03-21 21:08:33,313] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:08:33,398] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 2233
+[2019-03-21 21:08:33,401] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 21:08:33,410] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:08:33,477] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 21:08:35,399] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 21:08:35,408] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:08:35,478] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 21:08:39,540] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 21:08:39,554] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:08:39,654] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 21:08:39,821] >>> Square Poster Draft-2019-03-21T20:58:21.354Z.pdf found!
+[2019-03-21 21:08:39,834] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:08:39,910] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/Square%20Poster%20Draft-2019-03-21T20:58:21.354Z.pdf HTTP/1.1" 200 1621376
+[2019-03-21 21:08:40,450] >>> Square Poster Draft-2019-03-21T21:00:02.567Z.pdf found!
+[2019-03-21 21:08:40,464] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:08:40,543] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/Square%20Poster%20Draft-2019-03-21T21:00:02.567Z.pdf HTTP/1.1" 200 1621376
+[2019-03-21 21:08:40,971] >>> Square Poster Draft-2019-03-21T21:01:19.211Z.pdf found!
+[2019-03-21 21:08:40,987] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:08:41,109] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/Square%20Poster%20Draft-2019-03-21T21:01:19.211Z.pdf HTTP/1.1" 200 1621376
+[2019-03-21 21:08:41,682] >>> 04-ltprops-2019-03-21T21:03:25.879Z.pdf found!
+[2019-03-21 21:08:41,701] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:08:41,781] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/04-ltprops-2019-03-21T21:03:25.879Z.pdf HTTP/1.1" 200 2144752
+[2019-03-21 21:13:11,128] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:13:11,238] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T22:00Z HTTP/1.1" 200 141
+[2019-03-21 21:13:11,265] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:13:11,365] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 2042
+[2019-03-21 21:13:11,370] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 21:13:11,378] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:13:11,455] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 21:13:14,632] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 21:13:14,654] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:13:14,958] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 21:13:20,237] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 21:13:20,252] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:13:20,404] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 21:13:20,766] >>> Square Poster Draft-2019-03-21T20:58:21.354Z.pdf found!
+[2019-03-21 21:13:20,779] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:13:20,847] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/Square%20Poster%20Draft-2019-03-21T20:58:21.354Z.pdf HTTP/1.1" 200 1621376
+[2019-03-21 21:13:21,978] >>> Square Poster Draft-2019-03-21T21:00:02.567Z.pdf found!
+[2019-03-21 21:13:21,993] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:13:22,070] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/Square%20Poster%20Draft-2019-03-21T21:00:02.567Z.pdf HTTP/1.1" 200 1621376
+[2019-03-21 21:13:22,731] >>> Square Poster Draft-2019-03-21T21:01:19.211Z.pdf found!
+[2019-03-21 21:13:22,746] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:13:22,862] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/Square%20Poster%20Draft-2019-03-21T21:01:19.211Z.pdf HTTP/1.1" 200 1621376
+[2019-03-21 21:17:37,718] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:17:37,803] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T22:00Z HTTP/1.1" 200 141
+[2019-03-21 21:17:37,828] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:17:37,943] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1817
+[2019-03-21 21:17:37,946] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 21:17:37,955] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:17:38,080] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 21:17:39,842] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 21:17:39,858] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:17:39,940] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 21:17:45,463] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 21:17:45,475] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:17:45,562] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 21:17:45,897] >>> 03-models2-2019-03-21T21:14:12.833Z.pdf found!
+[2019-03-21 21:17:45,910] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:17:45,975] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/03-models2-2019-03-21T21:14:12.833Z.pdf HTTP/1.1" 200 3656857
+[2019-03-21 21:17:48,136] >>> NETSEC-Lab1-iptables-2019-03-21T21:15:31.716Z.pdf found!
+[2019-03-21 21:17:48,148] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:17:48,352] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/NETSEC-Lab1-iptables-2019-03-21T21:15:31.716Z.pdf HTTP/1.1" 200 206204
+[2019-03-21 21:22:33,327] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:22:33,475] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T22:00Z HTTP/1.1" 200 141
+[2019-03-21 21:22:33,499] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:22:33,614] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1998
+[2019-03-21 21:22:33,617] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 21:22:33,626] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:22:33,714] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 21:50:03,469] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:50:03,565] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T22:00Z HTTP/1.1" 200 141
+[2019-03-21 21:50:03,587] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:50:03,700] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 2058
+[2019-03-21 21:50:03,703] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 21:50:03,709] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:50:03,801] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 21:50:09,641] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 21:50:09,701] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:50:09,811] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 21:50:14,858] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 21:50:14,867] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:50:14,943] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 21:50:15,208] >>> 03-models2-2019-03-21T21:14:12.833Z.pdf found!
+[2019-03-21 21:50:15,215] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 21:50:15,438] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/03-models2-2019-03-21T21:14:12.833Z.pdf HTTP/1.1" 200 3656857
+[2019-03-21 22:50:03,677] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 22:50:03,800] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T23:00Z HTTP/1.1" 200 141
+[2019-03-21 22:50:03,823] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 22:50:03,921] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 2058
+[2019-03-21 22:50:03,932] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 22:50:03,939] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 22:50:04,029] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 22:50:05,769] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 22:50:05,777] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 22:50:05,856] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 22:50:12,217] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 22:50:13,536] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 22:50:13,610] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 22:50:13,826] >>> 03-models2-2019-03-21T21:14:12.833Z.pdf found!
+[2019-03-21 22:50:13,834] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 22:50:13,919] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/03-models2-2019-03-21T21:14:12.833Z.pdf HTTP/1.1" 200 3656857
+[2019-03-21 23:50:05,158] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 23:50:05,294] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-21T24:00Z HTTP/1.1" 200 141
+[2019-03-21 23:50:05,330] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 23:50:05,427] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 2058
+[2019-03-21 23:50:05,440] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-21 23:50:05,447] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 23:50:05,512] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-21 23:50:07,745] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-21 23:50:07,754] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 23:50:07,825] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-21 23:50:17,185] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-21 23:50:17,444] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 23:50:17,806] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-21 23:50:18,030] >>> 03-models2-2019-03-21T21:14:12.833Z.pdf found!
+[2019-03-21 23:50:18,038] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-21 23:50:18,108] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/03-models2-2019-03-21T21:14:12.833Z.pdf HTTP/1.1" 200 3656857
+[2019-03-22 00:50:06,303] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 00:50:06,429] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T1:00Z HTTP/1.1" 500 1086
+[2019-03-22 01:50:04,739] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 01:50:04,883] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T2:00Z HTTP/1.1" 500 1086
+[2019-03-22 02:50:04,655] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 02:50:04,770] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T3:00Z HTTP/1.1" 500 1086
+[2019-03-22 03:50:04,636] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 03:50:04,748] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T4:00Z HTTP/1.1" 500 1086
+[2019-03-22 04:50:04,543] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 04:50:04,677] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T5:00Z HTTP/1.1" 500 1086
+[2019-03-22 05:50:05,610] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 05:50:05,720] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T6:00Z HTTP/1.1" 500 1086
+[2019-03-22 06:50:05,924] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 06:50:06,029] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T7:00Z HTTP/1.1" 500 1086
+[2019-03-22 07:50:05,559] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 07:50:05,693] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T8:00Z HTTP/1.1" 500 1086
+[2019-03-22 08:50:04,710] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 08:50:04,828] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T9:00Z HTTP/1.1" 500 1086
+[2019-03-22 09:50:04,663] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 09:50:04,757] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T10:00Z HTTP/1.1" 200 4
+[2019-03-22 09:50:04,762] >>> No next booking
+[2019-03-22 10:50:04,554] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 10:50:04,677] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T11:00Z HTTP/1.1" 200 4
+[2019-03-22 10:50:04,683] >>> No next booking
+[2019-03-22 11:50:04,501] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 11:50:04,615] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T12:00Z HTTP/1.1" 200 4
+[2019-03-22 11:50:04,620] >>> No next booking
+[2019-03-22 12:50:04,296] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 12:50:04,432] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T13:00Z HTTP/1.1" 200 4
+[2019-03-22 12:50:04,437] >>> No next booking
+[2019-03-22 13:50:04,274] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 13:50:04,384] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T14:00Z HTTP/1.1" 200 4
+[2019-03-22 13:50:04,389] >>> No next booking
+[2019-03-22 14:50:04,210] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 14:50:04,680] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T15:00Z HTTP/1.1" 200 4
+[2019-03-22 14:50:04,685] >>> No next booking
+[2019-03-22 15:50:57,734] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 15:50:57,991] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T16:00Z HTTP/1.1" 200 4
+[2019-03-22 15:50:57,994] >>> No next booking
+[2019-03-22 15:56:22,325] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 15:56:22,421] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T16:00Z HTTP/1.1" 200 141
+[2019-03-22 15:56:22,448] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 15:56:22,536] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 2058
+[2019-03-22 15:56:22,541] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-22 15:56:22,550] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 15:56:22,669] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-22 15:56:29,883] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-22 15:56:29,894] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 15:56:29,981] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-22 15:56:44,899] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-22 15:56:44,911] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 15:56:45,136] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-22 15:56:45,826] >>> 03-models2-2019-03-21T21:14:12.833Z.pdf found!
+[2019-03-22 15:56:45,838] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 15:56:45,937] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/03-models2-2019-03-21T21:14:12.833Z.pdf HTTP/1.1" 200 3656857
+[2019-03-22 15:57:26,056] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 15:57:26,148] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T16:00Z HTTP/1.1" 200 141
+[2019-03-22 15:57:26,174] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 15:57:26,304] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 2058
+[2019-03-22 15:57:26,307] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-22 15:57:26,316] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 15:57:26,401] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-22 15:57:34,030] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-22 15:57:34,042] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 15:57:34,110] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-22 15:57:45,825] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-22 15:57:45,845] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 15:57:45,930] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-22 15:57:46,323] >>> 03-models2-2019-03-21T21:14:12.833Z.pdf found!
+[2019-03-22 15:57:46,334] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 15:57:46,435] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/03-models2-2019-03-21T21:14:12.833Z.pdf HTTP/1.1" 200 3656857
+[2019-03-22 16:04:34,827] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:04:35,165] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T17:00Z HTTP/1.1" 200 4
+[2019-03-22 16:04:35,168] >>> No next booking
+[2019-03-22 16:04:59,220] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:04:59,637] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T17:00Z HTTP/1.1" 200 4
+[2019-03-22 16:04:59,641] >>> No next booking
+[2019-03-22 16:05:11,412] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:05:11,553] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T17:00Z HTTP/1.1" 200 141
+[2019-03-22 16:05:11,578] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:05:11,657] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1437
+[2019-03-22 16:05:11,660] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-22 16:05:11,669] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:05:11,758] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-22 16:05:14,062] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-22 16:05:14,084] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:05:14,159] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-22 16:10:45,040] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:10:45,246] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T17:00Z HTTP/1.1" 200 141
+[2019-03-22 16:10:45,274] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:10:45,363] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1437
+[2019-03-22 16:10:45,366] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-22 16:10:45,375] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:10:45,459] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-22 16:10:47,699] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-22 16:10:47,711] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:10:47,798] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-22 16:10:55,620] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-22 16:10:55,637] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:10:55,717] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-22 16:10:56,022] >>> 03-models2-2019-03-21T21:14:12.833Z.pdf found!
+[2019-03-22 16:10:56,034] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:10:56,126] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/03-models2-2019-03-21T21:14:12.833Z.pdf HTTP/1.1" 200 3656857
+[2019-03-22 16:40:13,088] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:40:13,207] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T17:00Z HTTP/1.1" 200 141
+[2019-03-22 16:40:13,232] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:40:13,323] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1628
+[2019-03-22 16:40:13,327] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-22 16:40:13,335] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:40:13,416] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-22 16:40:16,338] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-22 16:40:16,349] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:40:16,425] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-22 16:40:21,763] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-22 16:40:21,793] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:40:21,906] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-22 16:40:22,470] >>> 03-models2-2019-03-21T21:14:12.833Z.pdf found!
+[2019-03-22 16:40:22,482] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:40:22,570] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/03-models2-2019-03-21T21:14:12.833Z.pdf HTTP/1.1" 200 3656857
+[2019-03-22 16:40:27,639] >>> 03-models2-2019-03-22T16:11:26.103Z.pdf found!
+[2019-03-22 16:40:27,663] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:40:27,743] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/03-models2-2019-03-22T16:11:26.103Z.pdf HTTP/1.1" 200 3656857
+[2019-03-22 16:49:06,332] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:49:11,523] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T17:00Z HTTP/1.1" 200 141
+[2019-03-22 16:49:11,574] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:49:12,033] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1819
+[2019-03-22 16:49:12,036] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-22 16:49:12,045] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:49:12,318] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-22 16:49:15,376] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-22 16:49:15,388] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:49:15,474] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-22 16:49:23,231] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-22 16:49:23,245] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:49:23,341] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-22 16:49:28,465] >>> 03-models2-2019-03-21T21:14:12.833Z.pdf found!
+[2019-03-22 16:49:28,510] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:49:28,584] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/03-models2-2019-03-21T21:14:12.833Z.pdf HTTP/1.1" 200 3656857
+[2019-03-22 16:49:30,432] >>> 03-models2-2019-03-22T16:11:26.103Z.pdf found!
+[2019-03-22 16:49:30,456] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:49:30,535] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/03-models2-2019-03-22T16:11:26.103Z.pdf HTTP/1.1" 200 3656857
+[2019-03-22 16:49:32,126] >>> 04-ltprops-2019-03-22T16:41:07.346Z.pdf found!
+[2019-03-22 16:49:32,151] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:49:32,220] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/04-ltprops-2019-03-22T16:41:07.346Z.pdf HTTP/1.1" 200 2144752
+[2019-03-22 16:50:03,123] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:50:03,234] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T17:00Z HTTP/1.1" 200 141
+[2019-03-22 16:50:03,256] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:50:03,364] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1819
+[2019-03-22 16:50:03,368] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-22 16:50:03,374] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:50:03,439] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-22 16:50:06,141] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-22 16:50:06,150] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:50:06,231] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-22 16:50:12,851] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-22 16:50:12,860] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:50:12,934] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-22 16:50:13,272] >>> 03-models2-2019-03-21T21:14:12.833Z.pdf found!
+[2019-03-22 16:50:13,280] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:50:13,372] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/03-models2-2019-03-21T21:14:12.833Z.pdf HTTP/1.1" 200 3656857
+[2019-03-22 16:50:17,821] >>> 03-models2-2019-03-22T16:11:26.103Z.pdf found!
+[2019-03-22 16:50:17,830] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:50:17,902] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/03-models2-2019-03-22T16:11:26.103Z.pdf HTTP/1.1" 200 3656857
+[2019-03-22 16:50:19,918] >>> 04-ltprops-2019-03-22T16:41:07.346Z.pdf found!
+[2019-03-22 16:50:19,928] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 16:50:19,996] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/04-ltprops-2019-03-22T16:41:07.346Z.pdf HTTP/1.1" 200 2144752
+[2019-03-22 17:01:05,814] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:01:05,965] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T18:00Z HTTP/1.1" 200 4
+[2019-03-22 17:01:05,969] >>> No next booking
+[2019-03-22 17:01:30,168] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:01:30,286] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T18:00Z HTTP/1.1" 200 141
+[2019-03-22 17:01:30,311] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:01:30,562] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 2227
+[2019-03-22 17:01:30,565] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-22 17:01:30,574] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:01:30,661] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-22 17:01:34,249] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-22 17:01:34,265] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:01:34,366] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-22 17:01:43,431] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-22 17:01:43,445] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:01:43,578] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-22 17:01:43,863] >>> 03-models2-2019-03-21T21:14:12.833Z.pdf found!
+[2019-03-22 17:01:43,876] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:01:43,996] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/03-models2-2019-03-21T21:14:12.833Z.pdf HTTP/1.1" 200 3656857
+[2019-03-22 17:01:45,779] >>> 03-models2-2019-03-22T16:11:26.103Z.pdf found!
+[2019-03-22 17:01:45,792] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:01:45,884] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/03-models2-2019-03-22T16:11:26.103Z.pdf HTTP/1.1" 200 3656857
+[2019-03-22 17:01:47,011] >>> 04-ltprops-2019-03-22T16:41:07.346Z.pdf found!
+[2019-03-22 17:01:47,036] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:01:47,131] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/04-ltprops-2019-03-22T16:41:07.346Z.pdf HTTP/1.1" 200 2144752
+[2019-03-22 17:01:48,118] >>> Square Poster Draft-2019-03-22T16:51:51.114Z.pdf found!
+[2019-03-22 17:01:48,132] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:01:48,266] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/Square%20Poster%20Draft-2019-03-22T16:51:51.114Z.pdf HTTP/1.1" 200 1621376
+[2019-03-22 17:03:00,190] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:03:05,210] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T18:00Z HTTP/1.1" 200 141
+[2019-03-22 17:03:05,257] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:03:05,708] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 2227
+[2019-03-22 17:03:05,711] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-22 17:03:05,720] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:03:06,096] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-22 17:03:21,191] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-22 17:03:21,209] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:03:21,297] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-22 17:03:28,379] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-22 17:03:28,409] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:03:28,496] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-22 17:03:28,901] >>> 03-models2-2019-03-21T21:14:12.833Z.pdf found!
+[2019-03-22 17:03:28,912] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:03:29,155] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/03-models2-2019-03-21T21:14:12.833Z.pdf HTTP/1.1" 200 3656857
+[2019-03-22 17:03:31,836] >>> 03-models2-2019-03-22T16:11:26.103Z.pdf found!
+[2019-03-22 17:03:31,852] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:03:31,951] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/03-models2-2019-03-22T16:11:26.103Z.pdf HTTP/1.1" 200 3656857
+[2019-03-22 17:03:34,284] >>> 04-ltprops-2019-03-22T16:41:07.346Z.pdf found!
+[2019-03-22 17:03:34,299] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:03:34,381] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/04-ltprops-2019-03-22T16:41:07.346Z.pdf HTTP/1.1" 200 2144752
+[2019-03-22 17:03:35,326] >>> Square Poster Draft-2019-03-22T16:51:51.114Z.pdf found!
+[2019-03-22 17:03:35,351] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:03:35,496] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/Square%20Poster%20Draft-2019-03-22T16:51:51.114Z.pdf HTTP/1.1" 200 1621376
+[2019-03-22 17:09:05,716] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:09:05,838] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T18:00Z HTTP/1.1" 200 141
+[2019-03-22 17:09:05,862] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:09:06,084] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 2227
+[2019-03-22 17:09:06,087] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-22 17:09:06,096] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:09:06,448] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-22 17:09:10,010] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-22 17:09:10,033] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:09:10,104] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-22 17:09:18,531] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-22 17:09:18,543] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:09:18,621] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-22 17:09:18,960] >>> 03-models2-2019-03-21T21:14:12.833Z.pdf found!
+[2019-03-22 17:09:18,972] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:09:19,042] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/03-models2-2019-03-21T21:14:12.833Z.pdf HTTP/1.1" 200 3656857
+[2019-03-22 17:09:20,347] >>> 03-models2-2019-03-22T16:11:26.103Z.pdf found!
+[2019-03-22 17:09:20,360] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:09:20,437] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/03-models2-2019-03-22T16:11:26.103Z.pdf HTTP/1.1" 200 3656857
+[2019-03-22 17:09:21,818] >>> 04-ltprops-2019-03-22T16:41:07.346Z.pdf found!
+[2019-03-22 17:09:21,839] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:09:22,880] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/04-ltprops-2019-03-22T16:41:07.346Z.pdf HTTP/1.1" 200 2144752
+[2019-03-22 17:09:23,993] >>> Square Poster Draft-2019-03-22T16:51:51.114Z.pdf found!
+[2019-03-22 17:09:24,015] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:09:24,103] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/Square%20Poster%20Draft-2019-03-22T16:51:51.114Z.pdf HTTP/1.1" 200 1621376
+[2019-03-22 17:15:19,650] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:15:19,754] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T18:00Z HTTP/1.1" 200 141
+[2019-03-22 17:15:19,779] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:15:19,875] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 2227
+[2019-03-22 17:15:19,878] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-22 17:15:19,887] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:15:19,956] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-22 17:15:22,173] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-22 17:15:22,185] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:15:22,260] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-22 17:15:27,364] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-22 17:15:27,382] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:15:27,459] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-22 17:15:27,781] >>> 03-models2-2019-03-21T21:14:12.833Z.pdf found!
+[2019-03-22 17:15:27,792] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:15:27,869] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/03-models2-2019-03-21T21:14:12.833Z.pdf HTTP/1.1" 200 3656857
+[2019-03-22 17:15:28,835] >>> 03-models2-2019-03-22T16:11:26.103Z.pdf found!
+[2019-03-22 17:15:28,865] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:15:28,946] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/03-models2-2019-03-22T16:11:26.103Z.pdf HTTP/1.1" 200 3656857
+[2019-03-22 17:15:29,926] >>> 04-ltprops-2019-03-22T16:41:07.346Z.pdf found!
+[2019-03-22 17:15:29,939] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:15:30,018] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/04-ltprops-2019-03-22T16:41:07.346Z.pdf HTTP/1.1" 200 2144752
+[2019-03-22 17:15:30,625] >>> Square Poster Draft-2019-03-22T16:51:51.114Z.pdf found!
+[2019-03-22 17:15:30,660] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:15:30,759] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/Square%20Poster%20Draft-2019-03-22T16:51:51.114Z.pdf HTTP/1.1" 200 1621376
+[2019-03-22 17:19:56,440] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:19:56,691] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T18:00Z HTTP/1.1" 200 141
+[2019-03-22 17:19:56,715] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:19:56,882] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 2227
+[2019-03-22 17:19:56,885] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-22 17:19:56,894] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:19:56,985] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-22 17:20:01,990] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-22 17:20:02,009] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:20:02,096] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-22 17:20:12,857] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-22 17:20:12,869] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:20:12,951] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-22 17:20:13,274] >>> 03-models2-2019-03-21T21:14:12.833Z.pdf found!
+[2019-03-22 17:20:13,286] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:20:13,422] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/03-models2-2019-03-21T21:14:12.833Z.pdf HTTP/1.1" 200 3656857
+[2019-03-22 17:20:15,577] >>> 03-models2-2019-03-22T16:11:26.103Z.pdf found!
+[2019-03-22 17:20:15,591] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:20:15,690] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/03-models2-2019-03-22T16:11:26.103Z.pdf HTTP/1.1" 200 3656857
+[2019-03-22 17:20:18,346] >>> 04-ltprops-2019-03-22T16:41:07.346Z.pdf found!
+[2019-03-22 17:20:18,359] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:20:18,433] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/04-ltprops-2019-03-22T16:41:07.346Z.pdf HTTP/1.1" 200 2144752
+[2019-03-22 17:20:19,594] >>> Square Poster Draft-2019-03-22T16:51:51.114Z.pdf found!
+[2019-03-22 17:20:19,615] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:20:19,701] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/Square%20Poster%20Draft-2019-03-22T16:51:51.114Z.pdf HTTP/1.1" 200 1621376
+[2019-03-22 17:34:33,361] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:34:33,484] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T18:00Z HTTP/1.1" 200 141
+[2019-03-22 17:34:33,510] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:34:33,737] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1445
+[2019-03-22 17:34:33,741] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-22 17:34:33,750] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:34:33,869] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-22 17:34:38,859] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-22 17:34:38,871] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:34:38,945] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-22 17:34:44,572] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-22 17:34:44,590] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:34:44,665] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-22 17:43:47,035] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:43:47,186] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T18:00Z HTTP/1.1" 200 141
+[2019-03-22 17:43:47,211] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:43:47,311] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1654
+[2019-03-22 17:43:47,315] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-22 17:43:47,323] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:43:47,440] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-22 17:43:51,074] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-22 17:43:51,085] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:43:51,170] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-22 17:44:00,186] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-22 17:44:00,199] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:44:00,280] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-22 17:44:00,514] >>> Square Poster Draft-2019-03-22T17:35:28.922Z.pdf found!
+[2019-03-22 17:44:00,525] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:44:00,596] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/Square%20Poster%20Draft-2019-03-22T17:35:28.922Z.pdf HTTP/1.1" 200 1621376
+[2019-03-22 17:50:03,046] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:50:03,135] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T18:00Z HTTP/1.1" 200 141
+[2019-03-22 17:50:03,157] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:50:03,251] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1654
+[2019-03-22 17:50:03,255] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-22 17:50:03,261] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:50:03,342] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-22 17:50:06,365] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-22 17:50:06,374] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:50:06,445] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-22 17:50:12,833] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-22 17:50:12,842] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:50:12,986] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-22 17:50:13,351] >>> Square Poster Draft-2019-03-22T17:35:28.922Z.pdf found!
+[2019-03-22 17:50:13,361] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 17:50:13,471] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/Square%20Poster%20Draft-2019-03-22T17:35:28.922Z.pdf HTTP/1.1" 200 1621376
+[2019-03-22 18:50:03,641] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 18:50:03,786] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T19:00Z HTTP/1.1" 200 4
+[2019-03-22 18:50:03,789] >>> No next booking
+[2019-03-22 19:50:03,437] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 19:50:03,609] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T20:00Z HTTP/1.1" 200 4
+[2019-03-22 19:50:03,612] >>> No next booking
+[2019-03-22 20:50:03,281] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 20:50:03,418] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T21:00Z HTTP/1.1" 200 4
+[2019-03-22 20:50:03,421] >>> No next booking
+[2019-03-22 21:50:03,045] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 21:50:03,154] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T22:00Z HTTP/1.1" 200 4
+[2019-03-22 21:50:03,157] >>> No next booking
+[2019-03-22 22:50:03,802] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 22:50:03,910] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T23:00Z HTTP/1.1" 200 4
+[2019-03-22 22:50:03,913] >>> No next booking
+[2019-03-22 23:50:03,577] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-22 23:50:03,693] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-22T24:00Z HTTP/1.1" 200 4
+[2019-03-22 23:50:03,696] >>> No next booking
+[2019-03-23 00:50:03,308] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-23 00:50:03,423] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-23T1:00Z HTTP/1.1" 500 1086
+[2019-03-23 01:50:03,108] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-23 01:50:03,205] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-23T2:00Z HTTP/1.1" 500 1086
+[2019-03-23 02:50:03,896] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-23 02:50:03,988] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-23T3:00Z HTTP/1.1" 500 1086
+[2019-03-23 03:50:03,630] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-23 03:50:03,730] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-23T4:00Z HTTP/1.1" 500 1086
+[2019-03-23 04:50:03,357] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-23 04:50:03,456] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-23T5:00Z HTTP/1.1" 500 1086
+[2019-03-23 05:50:03,109] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-23 05:50:03,206] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-23T6:00Z HTTP/1.1" 500 1086
+[2019-03-23 06:50:03,123] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-23 06:50:03,215] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-23T7:00Z HTTP/1.1" 500 1086
+[2019-03-23 07:50:03,866] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-23 07:50:03,957] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-23T8:00Z HTTP/1.1" 500 1086
+[2019-03-23 08:50:03,610] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-23 08:50:03,712] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-23T9:00Z HTTP/1.1" 500 1086
+[2019-03-23 09:50:03,383] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-23 09:50:03,542] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-23T10:00Z HTTP/1.1" 200 4
+[2019-03-23 09:50:03,545] >>> No next booking
+[2019-03-23 10:50:03,198] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-23 10:50:03,351] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-23T11:00Z HTTP/1.1" 200 4
+[2019-03-23 10:50:03,354] >>> No next booking
+[2019-03-23 11:50:03,961] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-23 11:50:04,064] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-23T12:00Z HTTP/1.1" 200 4
+[2019-03-23 11:50:04,067] >>> No next booking
+[2019-03-23 12:50:03,698] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-23 12:50:03,840] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-23T13:00Z HTTP/1.1" 200 4
+[2019-03-23 12:50:03,843] >>> No next booking
+[2019-03-23 13:50:03,489] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-23 13:50:03,791] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-23T14:00Z HTTP/1.1" 200 4
+[2019-03-23 13:50:03,795] >>> No next booking
+[2019-03-23 14:50:03,430] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-23 14:50:03,612] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-23T15:00Z HTTP/1.1" 200 4
+[2019-03-23 14:50:03,615] >>> No next booking
+[2019-03-23 15:50:03,297] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-23 15:50:03,550] http://sds.samchatfield.com:80 "GET /api/room/CS-225/bookings/2019-03-23T16:00Z HTTP/1.1" 200 141
+[2019-03-23 15:50:03,573] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-23 15:50:03,745] http://sds.samchatfield.com:80 "GET /api/user/1234567/files HTTP/1.1" 200 1654
+[2019-03-23 15:50:03,748] >>> TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf found!
+[2019-03-23 15:50:03,754] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-23 15:50:03,901] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/TaylorTravisS-IntroductiontoRocketScienceandEngineering-CRCPress2009-2019-03-11T18:54:56.664Z.pdf HTTP/1.1" 200 6989363
+[2019-03-23 15:50:08,230] >>> introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf found!
+[2019-03-23 15:50:08,238] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-23 15:50:08,385] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/introduction.fluid.mech-2019-03-11T18:54:58.246Z.pdf HTTP/1.1" 200 18087943
+[2019-03-23 15:50:16,201] >>> L13 Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf found!
+[2019-03-23 15:50:16,210] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-23 15:50:16,372] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/L13%20Multi-objective-optimisation-Intro-2019-03-11T19_05_04.668Z-2019-03-11T19:18:29.639Z.pdf HTTP/1.1" 200 506607
+[2019-03-23 15:50:16,903] >>> Square Poster Draft-2019-03-22T17:35:28.922Z.pdf found!
+[2019-03-23 15:50:16,912] Starting new HTTP connection (1): sds.samchatfield.com
+[2019-03-23 15:50:17,071] http://sds.samchatfield.com:80 "GET /api/user/files/1234567/Square%20Poster%20Draft-2019-03-22T17:35:28.922Z.pdf HTTP/1.1" 200 1621376

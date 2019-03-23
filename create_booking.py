@@ -19,8 +19,8 @@ def post_booking():
             "leader": "1234567",
             "users": ["1234567"]
     }
-
-    request = requests.post(book_url, data=data)
+    
+    request = requests.post(book_url, json=data)
     print(request.text)
     return
 

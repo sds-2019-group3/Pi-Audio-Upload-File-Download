@@ -2,6 +2,7 @@
 import logging
 import subprocess
 import os
+import shutil
 
 logging.basicConfig(filename='/home/pi/AudioRecording/Pi-Audio-Upload-File-Download/logs/remove_files.log', level=logging.DEBUG, format='[%(asctime)s] %(message)s')
 
@@ -41,8 +42,8 @@ def remove_file_ids():
         if (file_id == latest_id):
             continue
         else:
-            current_command = remove_command + 'temp/' + file_id
-            process = subprocess.Popen(current_command, shell = True)
+            current_command = 'temp/' + file_id
+            shutil.rmtree(current_command)
             logging.info('>>> Removed file with booking ID: ' + file_id)
     return
 
@@ -61,5 +62,6 @@ def remove_txt_ids():
         id_file.write(latest_id + '\n')
     return
 
+logging.info('>>> Removing old booking files')
 remove_file_ids()
 remove_txt_ids()

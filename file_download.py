@@ -12,12 +12,16 @@ logging.basicConfig(filename='/home/pi/AudioRecording/Pi-Audio-Upload-File-Downl
 host = 'http://sds.samchatfield.com'
 
 #Downloads pdf files and opens them on the pi
-def download_files(usr_id, booking_id):
+def download_files(usr_id, booking_id, end_time):
     file_url = host + '/api/user/' + usr_id + '/files'
-
+    print(end_time)
     #Fetching the json of the files in the current directory
     getReq = requests.get(url = file_url)
     data = getReq.json()
+
+    if (not data):
+        logging.info('>>> No files to download')
+        return
     
     #Creating the directory for temporary files for the current booking
     os.makedirs('temp/' + booking_id, mode = 0o755, exist_ok = True)
@@ -37,7 +41,11 @@ def download_files(usr_id, booking_id):
             
             #Opening the file in chrome
             command = ['chromium-browser', 'temp/' + booking_id + file_name]
-            process = subprocess.Popen(command, shell = False)
+            process = subprocess.Popen(command, shell = False, stderr = subprocess.DEVNULL)
+
+    #Calling python script which continuously checks for new files throughout the duration
+    #of the booking
+    subprocess.Popen(['python3', 'update_files.py', booking_id, end_time], shell = False) 
     return
 
 #Checks when the next booking is and downloads the files for it as well as
@@ -53,7 +61,7 @@ def check_booking():
     getReq = requests.get(url = book_url)
     data = getReq.json()
     
-    if (data is None):
+    if (not data):
         logging.info('>>> No next booking')
         return
 
@@ -64,7 +72,7 @@ def check_booking():
 
     #Downloads files for the next booking
     current_booking_id = data['_id']
-    download_files(data['leader'], current_booking_id)
+    download_files(data['leader'], current_booking_id, data['end'])
     
     #Writing the booking id for the next booking, the current and next booking can be
     #stored at the same time
