@@ -7,7 +7,7 @@ import time
 import logging
 import os
 
-logging.basicConfig(filename='/home/pi/AudioRecording/Pi-Audio-Upload-File-Download/logs/file_download.log', level=logging.DEBUG, format='[%(asctime)s] %(message)s')
+logging.basicConfig(filename='logs/file_download.log', level=logging.INFO, format='[%(asctime)s] %(message)s')
 
 host = 'http://sds.samchatfield.com'
 
@@ -38,10 +38,6 @@ def download_files(usr_id, booking_id, end_time):
 
             with open('temp/' + booking_id + file_name, 'wb') as f:
                 f.write(getReq.content)
-            
-            #Opening the file in chrome
-            command = ['chromium-browser', 'temp/' + booking_id + file_name]
-            process = subprocess.Popen(command, shell = False, stderr = subprocess.DEVNULL)
 
     #Calling python script which continuously checks for new files throughout the duration
     #of the booking
